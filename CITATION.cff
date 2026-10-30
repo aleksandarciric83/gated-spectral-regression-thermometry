@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the data record and the manuscript."
+title: "Gated spectral regression for luminescence thermometry of gamma-Al2O3:Sm2+ (analysis code)"
+type: software
+authors:
+  - family-names: "Ćirić"
+    given-names: "Aleksandar"
+    affiliation: "Centre of Excellence for Photoconversion, Vinča Institute of Nuclear Sciences, University of Belgrade, Serbia"
+  - family-names: "Stojadinović"
+    given-names: "Stevan"
+    affiliation: "University of Belgrade, Faculty of Physics and Faculty of Forestry, Serbia"
+  - family-names: "Kemere"
+    given-names: "Meldra"
+    affiliation: "Institute of Solid State Physics, University of Latvia, Riga, Latvia"
+  - family-names: "Pankratov"
+    given-names: "Vladimir"
+    affiliation: "Institute of Solid State Physics, University of Latvia, Riga, Latvia"
+  - family-names: "Sarakovskis"
+    given-names: "Anatolijs"
+    affiliation: "Institute of Solid State Physics, University of Latvia, Riga, Latvia"
+  - family-names: "Dramićanin"
+    given-names: "Miroslav D."
+    affiliation: "Centre of Excellence for Photoconversion, Vinča Institute of Nuclear Sciences, University of Belgrade, Serbia"
+license: GPL-3.0-only
+repository-code: "https://github.com/aleksandarciric83/gated-spectral-regression-thermometry"
+references:
+  - type: dataset
+    title: "Gated emission spectra of Sm2+-doped gamma-Al2O3 coatings from 25 to 400 C (data for gated spectral regression thermometry)"
+    doi: "10.5281/zenodo.23817355"
+    authors:
+      - family-names: "Ćirić"
+        given-names: "Aleksandar"
